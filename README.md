@@ -1,5 +1,7 @@
 # Balrog
 
+(My copy to play around with. Check out https://github.com/emhuff/Balrog for the real up-to-date version.)
+
 This package needs a better README. Stay tuned.
 
 In the meantime:
